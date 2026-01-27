@@ -3,10 +3,14 @@
   "initialRoute": "introduction",
   "colors": {
     "light": {
-      "brand": "#F97316"
+      "brand": "#0d7cf2",
+      "heading": "#1a1a1a",
+      "text": "#374151"
     },
     "dark": {
-      "brand": "#FDBA74"
+      "brand": "#1a88ff",
+      "heading": "#f2f2f2",
+      "text": "#c1c1c1"
     }
   },
   "navigation": {
@@ -156,7 +160,7 @@
   "navbar": {
     "actions": {
       "primary": {
-        "title": "Dasboard",
+        "title": "Dashboard",
         "link": "https://dashboard.documentation.ai/"
       }
     }
