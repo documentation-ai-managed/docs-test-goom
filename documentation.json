@@ -153,9 +153,12 @@
     ]
   },
   "logo-light": "https://blob-cdn.documentation.ai/org-2ebb2ef5-dd91-493f-9938-283fbdb14c81/doc-d2a73d2e-4391-4446-a5c8-2d0b41b7c4c1/1769516965527-9c4a41v7upm-temp-logo.png?q=85&fm=auto&auto=compress%2Cformat",
-  "topbarCtaButton": {
-    "type": "link",
-    "name": "Dasboard",
-    "url": "https://dashboard.documentation.ai/"
+  "navbar": {
+    "actions": {
+      "primary": {
+        "title": "Dasboard",
+        "link": "https://dashboard.documentation.ai/"
+      }
+    }
   }
 }
